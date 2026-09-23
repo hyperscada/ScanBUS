@@ -1,5 +1,5 @@
 { 
-  "Message": "IDC_STATIC_NOTICE : 여기에 한줄 광고(홍보),알림이표시됩니다.", 
+  "Message": "여기에 한줄 알림내용이 표시됩니다.", 
   "Link": "https://cafe.naver.com/hyperhmi/5625",
-  "Color":"120,100,10" 
+  "Color":"0,0,255" 
 }
