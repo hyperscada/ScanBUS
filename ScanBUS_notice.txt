@@ -1,0 +1,4 @@
+{
+  "latest_version": "1.0h",
+  "notice_message": "ScanBUS V1.0h 새버젼이 나왔습니다."
+}
