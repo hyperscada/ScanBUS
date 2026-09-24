@@ -1,5 +1,5 @@
 { 
-  "Message": "여기에 한줄 알림내용이 표시됩니다.", 
+  "Message": "패킷분석기능이 추가된버젼이 Release되었습니다. 가족과 즐거운명절보내세요", 
   "Link": "https://cafe.naver.com/hyperhmi/5625",
-  "Color":"0,0,255" 
+  "Color":"255,0,0" 
 }
