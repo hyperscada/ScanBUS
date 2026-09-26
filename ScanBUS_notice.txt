@@ -1,5 +1,5 @@
 { 
-  "Message": "패킷분석기능이 추가된버젼이 Release되었습니다. 가족과 즐거운명절보내세요", 
-  "Link": "https://cafe.naver.com/hyperhmi/5625",
-  "Color":"255,0,0" 
+  "Message": "하이퍼스카다 모바일스카다 데모페이지 클릭!", 
+  "Link": "http://1094.iptime.org",
+  "Color":"255,0,255" 
 }
