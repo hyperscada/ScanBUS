@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0M",
-  "notice_message": "ScanBUS V1.0M 새버젼이 나왔습니다.",
+  "notice_message": "ScanBUS V1.0M 새버젼이 나왔습니다:모드버스명령선택기능추가",
   "URL": "https://cafe.naver.com/hyperhmi/5625"
 }
